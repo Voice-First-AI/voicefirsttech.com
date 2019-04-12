@@ -17,5 +17,7 @@ Once you've subscribed, your customers can let you know they are on their way by
 1. "Alexa, enable voicedrycleaner.com"
 2. "Alexa, I am on my way"
 
+edit this page [here](https://github.com/VoiceFirstTech/voicefirsttech.com/edit/master/notifyarrival.md)
+
 
 
