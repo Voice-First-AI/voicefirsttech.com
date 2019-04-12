@@ -77,6 +77,6 @@ Now let’s say we want to rebrand. We don’t like the white background so we c
 
 Today we showed you how dry cleaning business owners use WYSIWYG to update the branded images on Amazon Alexa. We are continuing to rollout new features and updates to help you create a **magical customer experience**for your dry cleaning customers.
 
-written by: [Patrick Sweetman](https://www.linkedin.com/in/patricksweetman365/) on 2019-April-4  
+written by [Patrick Sweetman](https://www.linkedin.com/in/patricksweetman365/) on 2019-April-4  
 Edit this page [here](https://github.com/VoiceFirstTech/voicefirsttech.com/edit/master/blog/dry-cleaners-take-control-of-amazon-echo-screens.md)
 
