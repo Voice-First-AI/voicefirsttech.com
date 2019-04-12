@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to Voice Dry Cleaner.com! We make it easy to run your dry cleaning
+  Welcome to VoiceDryCleaner.com! We make it easy to run your dry cleaning
   business in the age of AI.
 ---
 
