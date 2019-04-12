@@ -11,7 +11,7 @@ How do you create a **magical customer experience** for each and every customer?
 
 ![Kaboompics .com from Pexels](https://cdn-images-1.medium.com/max/800/1*DfH7ghsKpiV81q0ZyPpeWg.jpeg)
 
-**Let’s talk about Amazon’s Alexa.**
+### **Let’s talk about Amazon’s Alexa.**
 
 Amazon Alexa is a virtual assistant that uses Artificial Intelligence \(AI\) to help your dry cleaning business and answer your customers’ requests. Just like web and mobile, **your business can increase awareness** by having a presence on Amazon Alexa.
 
@@ -21,7 +21,7 @@ Did you know that [1/3 of smart speaker owners](https://voicebot.ai/2019/03/18/a
 
 > _Customer service is simply an early iteration of what we call customer experience today. That customers are interested in leveraging their voice assistants as service vehicles in their lives should have every brand hurrying to meet their customers where they are._
 
-#### Why <a id="72c6"></a>
+### Why
 
 Today we are focused on helping your dry cleaning business **create a magical customer experience.** Your business has a great marketing plan. You’ve created print ads that run in the local paper, you’ve got an email newsletter to let your customers know about new services. Heck, you’ve even started using Google and Facebook ads to show your best discounts to attract new customers! You are proud of your dry cleaning brand.  
 Recently, you started seeing ads for Amazon Alexa and started to wonder:
@@ -55,13 +55,13 @@ According to VoiceBotAI, **~37% of US adult voice assistant use is on screened d
 
 You can create a more **magical customer experience** by adding images and other engaging media to your Amazon Alexa skill.
 
-#### How <a id="23c2"></a>
+### How
 
 **What-you-see-is-what-you-get \(WYSIWYG\)** is becoming more popular in SaaS companies today. Companies such as [WordPress](https://wordpress.com/), [Invocable](https://www.invocable.com/), etc. make it easy for business owners to use technology to the benefit of their business. The more a business owner can customize their website, app, or Alexa Skill, the more empowered they become to create a **magical customer experience.**Let’s say you went on UpWork and hired a developer to build your Alexa Skill. the developer worked hard, followed all of your requirements, and was very receptive to feedback. They even published your Alexa Skill without a hitch. How awesome!   
 Next month your brand decides they want to update your marketing material with some new images. Your team creates some beautiful new marketing material to **advertise your FREE pickup and delivery service**. You want to add the images to the Alexa Skill your developer built. So, what do you do? Do you re-hire the developer and pay them to make the changes? Do you hire a new developer to make the changes for you? Maybe you try to dig around the code and make the changes yourself?  
 What if you could **use WYSIWYG to add new marketing material by clicking one button**? Now, with [VoiceDryCleaner.com](https://voicedrycleaner.com/profile), **you have the power to create a magical customer experience** without having to hire a developer.
 
-#### What <a id="d3ea"></a>
+### What
 
 Instantly update your customer’s apps on Amazon Echo Show, Echo Spot, Fire TV, Alexa Auto, etc. Here is what customers see on the Amazon Echo Show before they place a pickup request with your dry cleaning service:source: [https://voicedrycleaner.com](https://voicedrycleaner.com/)
 
