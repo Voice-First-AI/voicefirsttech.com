@@ -42,5 +42,7 @@ Once you're strong enough, save the world:
 * Businesses can buy **explainer videos** to demonstrate how customers can use Alexa to talk to your dry cleaner.
 * Business receive a **news release** they can send via their email lists to their customers about Alexa + Your Cleaner. 
 
+edit this page [here](https://github.com/VoiceFirstTech/voicefirsttech.com/edit/master/README.md)
+
 
 
