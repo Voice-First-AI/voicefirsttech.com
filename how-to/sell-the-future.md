@@ -7,6 +7,11 @@ description: >-
 
 # Sell the Future
 
+* [Get Started ](https://docs.voicedrycleaner.com/how-to/sell-the-future#get-started)
+* [Give Away Secrets](https://docs.voicedrycleaner.com/how-to/sell-the-future#1-give-away-secrets)
+* [Create a Promise for a Better Tomorrow](https://docs.voicedrycleaner.com/how-to/sell-the-future#2-create-a-promise-for-a-better-future)
+* [Sell the Best System](https://docs.voicedrycleaner.com/how-to/sell-the-future#3-sell-the-best-system)
+
 ## Get Started
 
 In order to create a better future, we have to first imagine a future with less problems. In order to imagine that universe, problems must first exist. Our rocket is headed towards the dry cleaning universe. **We are solving problems for the dry cleaning universe using voice technology powered by AI**. Our universe is old, stagnant, and ripe for innovation. Our universe has gone decades without significant innovation. Our universe has many problems needing solved. Kingdoms are in ruin. **The kings and queens face a young new world embracing technology and instant access to services.** 
@@ -76,7 +81,7 @@ After you have been connected with your new Kings and Queens. **Make plans to si
 > CEO - Voice First AI  
 > https://voicedrycleaner.com
 
-## 2. Create a Promise for a Better Future
+## 2. Create a Promise for a Better Tomorrow
 
 Once you're strong enough, create a promise for a better future:
 
@@ -149,6 +154,8 @@ This is the easiest component of the selling process. Because if you have done y
 Then wait for the answer. Because the next person who speaks is going to make a purchase. If that's us, we're going to buy a "no sale."
 
 And that's all, except writing up the sale!
+
+edit [here](https://github.com/VoiceFirstTech/voicefirsttech.com/edit/master/how-to/sell-the-future.md)
 
 ### 
 
