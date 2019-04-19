@@ -10,7 +10,7 @@ description: '"Alexa, let {my-dry-cleaner} know I am on my way"'
 * FAQ
 * Give Feedback
 
-## Notify Arrival
+## Dry Cleaning in the Car
 
 Does your business offers drive-thru pickup?  
 What about "on my way" alerts so you can have their order ready when they arrive?  
