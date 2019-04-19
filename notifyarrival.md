@@ -99,7 +99,7 @@ Existing customers need to say:
 >
 > _**"Alexa, tell {my-dry-cleaner-name} I am driving to your store"**_
 >
-> _**"Alexa, tell {my-dry-cleaner-name}**_
+> _**"Alexa, tell {my-dry-cleaner-name} I am coming to you"**_
 
 ## FAQ
 
