@@ -57,7 +57,7 @@ Your business can receive:
 
 1. SMS Notification
 2. Email Notification
-3. SPOT POS Integration
+3. POS Integration
 
 #### SMS Notification
 
