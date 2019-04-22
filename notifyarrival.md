@@ -77,9 +77,9 @@ You can add Email Notifications by
 3. modify **"Email for Order Confirmation"**
 4. click "Save Changes"
 
-#### SPOT POS Integration
+#### POS Integration
 
-Currently in **beta** only. We will update this page when SPOT POS Integration is made publicly available.
+Currently in **beta** only. We will update this page when POS Integration is made publicly available.
 
 ## Customer Experience
 
