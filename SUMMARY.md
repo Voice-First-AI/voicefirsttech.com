@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [NotifyArrival](notifyarrival.md)
+* [FAQ](faq.md)
 
 ## Blog
 
